@@ -20,21 +20,21 @@ Here are some ideas to get you started:
 
 ### **About me**
 
-- I am a **Senior Fullstack Engineer** and **web3 Enthusiast** with a **strong agile Mindset**.
+- I am a **_Senior Fullstack Engineer_** and **_web3 Enthusiast_** with a **strong agile Mindset**.
 - I have been working as a freelancer for various clients since mid-2020
 - In addition to programming, I also have experience in corporate culture, human resources development and organizational development
 - I am a multi-talent and can understand & connect tech, team & organizations, work out and communicate structures as well as added values
 
 ### **current knowledge updates**
 
-- **currently i am working deeper into the topics of web3, blockchains, smart contracts etc.**
+- currently i am working deeper into the topics of _web3, blockchains, smart contracts_ etc.
 
 <!-- ### **Entrepreneurship**
 
 - I founded planbuddy UG with 2 others. We want to simplify the digital planning of e.g. bachelor parties and make it more stress-free. -->
 
 </td>
-<td valign="top" width="25%"><img src="octocat-mel.png" /></td>
+<td valign="middle" width="25%"><img src="octocat-mel.png" /></td>
 </tr></table>
 
 ## **Languages & Tools:**
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-## **Stats:**
+
 
 <p>
    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=codingCookie&theme=radical&hide_border=true"/>
