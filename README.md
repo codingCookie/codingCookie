@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hej 👋, I'm Melanie</h1>
 
-<table style="border: none; margin-bottom: 50px"><tr>
+<table style="margin-bottom: 50px"><tr>
 <td valign="top" width="75%" >
 
 ### **About me**
@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 
 ## **find me on:** ️
 
-<br />
 <table><tr>
 <td valign="top"><a href="https://www.linkedin.com/in/melanie-moehlmann-fullstack-engineer-and-consultant/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="melanie-moehlmann-fullstack-engineer-and-consultant" /></a></td>
 <td valign="top"><a href="https://memoe.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Website%20--%20memoe.io%20(de%20only)-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white&" alt="Melanie Moehlmann | Fullstack Engineer & Consultant" /></a></td>
