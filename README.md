@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hej 👋, I'm Melanie</h1>
 
-<table style="margin-bottom: 50px"><tr>
+<table style="border: none; margin-bottom: 50px"><tr>
 <td valign="top" width="75%" >
 
 ### **About me**
@@ -25,17 +25,13 @@ Here are some ideas to get you started:
 - In addition to programming, I also have experience in corporate culture, human resources development and organizational development
 - I am a multi-talent and can understand & connect tech, team & organizations, work out and communicate structures as well as added values
 
-<br />
-
 ### **current knowledge updates**
 
 - **currently i am working deeper into the topics of web3, blockchains, smart contracts etc.**
 
-<br />
+<!-- ### **Entrepreneurship**
 
-### **Entrepreneurship**
-
-- I founded planbuddy UG with 2 others. We want to simplify the digital planning of e.g. bachelor parties and make it more stress-free.
+- I founded planbuddy UG with 2 others. We want to simplify the digital planning of e.g. bachelor parties and make it more stress-free. -->
 
 </td>
 <td valign="top" width="25%"><img src="octocat-mel.png" /></td>
